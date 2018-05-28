@@ -2,4 +2,9 @@
 SPL
 Alexander
 
-Neue Version: 14:44 Uhr, sonnig, heiss.
+Inhalte:
+Versionskontrolle
+Git-Grundlagen
+Python-Grundlagen
+
+Tools für SW-Development
